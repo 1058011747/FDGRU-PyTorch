@@ -1,6 +1,6 @@
 # FDGRU-PyTorch
 
-Fault diagnosis of rotating machinery based on recurrent neural networks
+Fault diagnosis of rotating machinery based on recurrent neural
 
 This is the implementation of the paper “Fault diagnosis of rotating machinery based on recurrent neural networks” in PyTorch.
 
